@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         解锁扫码限制
+// @name         解锁虎牙扫码限制
 // @namespace    http://tampermonkey.net/
 // @version      2025-01-14
 // @description  解锁虎牙最新限制：当观看最高画质时需要手机虎牙扫码
