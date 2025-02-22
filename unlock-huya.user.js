@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         解锁虎牙扫码限制
 // @namespace    http://tampermonkey.net/
-// @version      2025-02-03
+// @version      2025-02-23
 // @description  解锁虎牙最新限制：当观看最高画质时需要手机虎牙扫码
 // @author       郭巷蓝歌
 // @match        https://www.huya.com/*
