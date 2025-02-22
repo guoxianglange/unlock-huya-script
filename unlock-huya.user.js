@@ -90,7 +90,7 @@
                         firstLiClone.classList.add("on");
 
                         // 设置 `display: none`
-                        firstLiClone.style.display = "none";
+                        firstLiClone.setAttribute("style", "display: none !important;");
 
                         // 插入到列表最前面
                         list.insertBefore(firstLiClone, list.firstChild);
